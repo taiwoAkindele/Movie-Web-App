@@ -23,7 +23,7 @@ This web app was built using free movie API from moviedb api.
 
 ### Screenshot
 
-./screenshot1.png
+<img src="./screenshot1.png">
 
 ### Links
 
