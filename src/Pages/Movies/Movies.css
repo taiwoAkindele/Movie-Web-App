@@ -1,0 +1,27 @@
+.movie {
+    max-width: 1200px;
+    margin: 40px auto;
+    text-align: center;
+    background: #fff;
+    padding: 40px;
+    box-sizing: border-box;
+}
+img {
+    object-fit: contain;
+    height: 400px;
+}
+.movie ul {
+    display: flex;
+    padding: 0;
+    justify-content: center;
+    margin-top: 0;
+}
+.movie li {
+    list-style-type: none;
+    margin-right: 10px;
+    color: #777;
+}
+.overview {
+    text-align: left;
+    line-height: 1.5em;
+}

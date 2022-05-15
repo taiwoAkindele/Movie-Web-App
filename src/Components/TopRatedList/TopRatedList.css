@@ -1,0 +1,30 @@
+.toprated-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 30px;
+    justify-content: space-evenly;
+}
+.toprated-list .card {
+    display: flex;
+    flex-direction: column;
+    background: #fff;
+    color: #333;
+    padding: 20px;
+    border-radius: 4px;
+    width: 280px;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.05);
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+.card img {
+    object-fit: contain;
+    height: 400px;
+}
+.poster {
+    width: 100%;
+}
+.toprated-list .card h3 {
+    color: #555;
+    margin: auto 0;
+}

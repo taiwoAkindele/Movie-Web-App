@@ -1,0 +1,13 @@
+.media {
+    max-width: 1200px;
+    margin: 60px auto;
+}
+
+.page-title {
+    display: block;
+    text-transform: uppercase;
+    margin: 0 auto;
+    background: #fff;
+    color: #333;
+    padding: 20px;
+}

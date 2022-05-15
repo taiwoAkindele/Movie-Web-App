@@ -1,70 +1,75 @@
-# Getting Started with Create React App
+# Frontend Mentor - Advice generator app solution
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a basic web app named "MOVIE WEB APP". 
 
-## Available Scripts
+## Table of contents
 
-In the project directory, you can run:
+- [Overview](#overview)
+  - [The challenge](#the-challenge)
+  - [Screenshot](#screenshot)
+  - [Links](#links)
+- [My process](#my-process)
+  - [Built with](#built-with)
+  - [What I learned](#what-i-learned)
+  - [Continued development](#continued-development)
+  - [Useful resources](#useful-resources)
+- [Author](#author)
+- [Acknowledgments](#acknowledgments)
 
-### `npm start`
+**Note: Delete this note and update the table of contents based on what sections you keep.**
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## Overview
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+This web app was built using free movie API from moviedb api.   
 
-### `npm test`
+### Screenshot
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+./screenshot1.png
 
-### `npm run build`
+### Links
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Solution URL: (https://github.com/taiwoAkindele/Movie-Web-App.git)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## My process
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+-- Reactjs (create_react_app)
+-- work with react useState Hook
+-- Props
+-- React Fragments
+-- Forms & Labels in React
+-- Events in React (onSubmit)
+-- Fecthing Data with useEffect
+-- React Router 
 
-### `npm run eject`
+### Built with
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- CSS Grid
+- Mobile-first workflow
+- [React](https://reactjs.org/) - JS library
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+**Note: These are just examples. Delete this note and replace the list above with your own choices**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+### What I learned
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+.env file: This is my first solely built react app, so it is my first time learning about the .env file. I learnt this file can be used to protect sensitive information you need in your code but do not want exposed to the public.
 
-## Learn More
+queryParams / useLocation / useNavigate Hook: I was  able to reinforce my knowledge on queryParams / useLocation react hook. It is amazing what one can learn by practizing. 
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Continued development
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+I will like to learn more about pagination and how to use it. I tried using it in this project, I just could not seem to get it. So pagination is one thing I will like to learn. Also I will also continue with my React course and learn about more interesting things in the future.
 
-### Code Splitting
+### Useful resources
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+Used a lot of resources while on this project, I can't really remember them all.
 
-### Analyzing the Bundle Size
+## Author
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+- Twitter - [@Taiiiiwo](https://www.twitter.com/taiiiiwo)
 
-### Making a Progressive Web App
+## Acknowledgments
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+Special shout out to NetNinja on Udemy.

@@ -1,0 +1,38 @@
+.movies-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 30px;
+    justify-content: space-evenly;
+}
+.movies-list .card {
+    display: flex;
+    flex-direction: column;
+    background: #fff;
+    color: #333;
+    padding: 20px;
+    border-radius: 4px;
+    width: 280px;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.05);
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+.card img {
+    object-fit: contain;
+    height: 400px;
+}
+.poster {
+    width: 100%;
+}
+.movies-list .card h3 {
+    color: #555;
+    margin-bottom: 6px;
+}
+.movies-list a {
+    color: #555;
+    text-decoration: none;
+    display: block;
+}
+.movies-list a:hover{
+    color: #e36e36;
+}
